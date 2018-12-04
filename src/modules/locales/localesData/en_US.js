@@ -576,7 +576,7 @@ export default {
     unlock_step_unlock_title: 'Unlock MetaMask',
     unlock_step_unlock_content: 'To create an account or unlock with MetaMask',
     unlock_step_refresh_title: 'Refresh DexEx',
-    unlock_step_refresh_content: 'Refresh DexEx wallet to enable MetaMask',
+    unlock_step_refresh_content: 'Refresh DexEx to enable MetaMask',
     mainnet_tip: "We only support Ethereum main net when using MetaMask",
     logout_title: "Logout From MetaMask",
     logout_tip: "We detected you have logged out from MetaMask, for your assets safety we have relocked your wallet",
