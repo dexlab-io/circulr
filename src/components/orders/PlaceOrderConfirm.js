@@ -220,7 +220,7 @@ function PlaceOrderConfirm(props) {
         qrCodeData &&
         <div>
           <div><QRCode value={qrCodeData} size={240} level='H'/></div>
-          <div>{intl.get('place_order_confirm.qrcode_security')}</div>
+          <div style={{color: 'white'}}>{intl.get('place_order_confirm.qrcode_security')}</div>
         </div>
       }
       <div className="mt20 d-block w-100">
